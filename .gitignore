@@ -1,0 +1,17 @@
+# dependensi & build
+node_modules/
+.next/
+out/
+build/
+coverage/
+playwright-report/
+test-results/
+
+# rahasia — jangan pernah di-commit
+.env
+.env*.local
+
+# sistem
+.DS_Store
+*.log
+.vercel
